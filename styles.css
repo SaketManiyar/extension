@@ -1,0 +1,14 @@
+.outer{
+    justify-content: center;
+    width: 275px;
+  
+    font-style:sans-serif ;
+    box-sizing: border-box;
+    border-radius: 3%;
+    margin : auto 2px;
+    padding: 10px;
+    font-size: 1rem;
+    background: rgb(190, 211, 229);
+    padding:5px;
+    box-shadow: 0 3px 4px rgb(255, 255, 255);
+}
